@@ -8,5 +8,4 @@
   
 * Agent_android : android用のアプリ。スマートフォンに入れてもらえればそのまま使えます。  
 * Agent_VR      : VR用のアプリ。これはPCで起動して、PC経由でOculus RiftS もしくはOculus Linkを使用したOculus Questで使用してください。  
-* Unity_Project : Agent_VRを作成する際に使用したUnity Projectです。記事だけでは分かりにくかった場合には確認してみてください。  
-　　　　　　　　　　androidで使用したい場合はプラットフォームを変えるだけで使用可能です。  
+* Unity_Project : Agent_VRを作成する際に使用したUnity Projectです。記事だけでは分かりにくかった場合には確認してみてください。androidで使用したい場合はプラットフォームを変えるだけで使用可能です。  
