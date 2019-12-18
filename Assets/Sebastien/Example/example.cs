@@ -160,7 +160,9 @@ public class example : MonoBehaviour {
 
         // SDKのスタート
         speak.start();
-	}
+        speak.cancelPlay();//音声再生をキャンセルする
+        speak.unmute();
+    }
 
     // ---------------------------------------------------------------------------- //
     //  マイクボタンを押下した時に呼び出される
